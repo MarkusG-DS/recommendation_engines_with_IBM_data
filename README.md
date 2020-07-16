@@ -7,8 +7,11 @@ This project was designed to analyze the interactions that users have with artic
 This project requires Python 3.x and the following Python libraries installed:
 
 Pandas
+
 Numpy
+
 Matplotlib
+
 Pickle
 
 ## Summary:
